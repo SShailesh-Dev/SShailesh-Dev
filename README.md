@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shailesh Kumar</h1>
-<h3 align="center">A passionate Dara Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <a href="https://twitter.com/sshailesh-dev" target="blank"><img src="https://img.shields.io/twitter/follow/sshailesh-dev?logo=twitter&style=for-the-badge" alt="sshailesh-dev" /></a> </p>
 
 - 🔭 I’m currently working on **my self**
 
