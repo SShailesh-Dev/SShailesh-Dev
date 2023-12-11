@@ -1,6 +1,6 @@
+![logo](https://github.com/SShailesh-Dev/SShailesh-Dev/blob/main/data%20science.png)
 <h1 align="center">Hi 👋, I'm Shailesh Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
 
 - 🔭 I’m currently working on **my self**
 
