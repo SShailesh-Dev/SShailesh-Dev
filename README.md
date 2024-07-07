@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **my self**
 
-- 🌱 I’m currently learning **IBM Data Science**
+- 🌱 I’m currently learning **Google Data analytics Certificate**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SShailesh-Dev/](https://github.com/SShailesh-Dev/)
 
 - 💬 Ask me about **Power BI, Excel, SQL, NoSQL, Python, NumPy, Matplotlib, SciKit Learn**
 
-- 📫 How to reach me **realkotaryag@gmail.com**
+- 📫 How to reach me **Sshailes.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am funny boi**
 
