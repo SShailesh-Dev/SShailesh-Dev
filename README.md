@@ -1,4 +1,4 @@
-![logo](https://github.com/SShailesh-Dev/SShailesh-Dev/blob/main/data%20science.png)
+![logo](https://github.com/SShailesh-Dev/SShailesh-Dev/blob/main/data-science.jpg)
 <h1 align="center">Hi 👋, I'm Shailesh Kumar</h1>
 
 <h2 align="center">Some more about me</h2>
