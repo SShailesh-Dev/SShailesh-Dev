@@ -1,6 +1,6 @@
 ![logo](https://github.com/SShailesh-Dev/SShailesh-Dev/blob/main/data%20science.png)
 <h1 align="center">Hi 👋, I'm Shailesh Kumar</h1>
-## Some more about me
+<h2></h2>Some more about me</h2>
 
 ```python
 shailesh = {
