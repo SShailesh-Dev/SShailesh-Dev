@@ -1,18 +1,26 @@
 ![logo](https://github.com/SShailesh-Dev/SShailesh-Dev/blob/main/data%20science.png)
 <h1 align="center">Hi 👋, I'm Shailesh Kumar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+## Some more about me
 
-- 🔭 I’m currently working on **my self**
+```python
+shailesh = {
+    "pronouns": ["He", "Him"],
+    "code": ["SQL", "Python", "R", "Tableau", "Power BI"],
+    "ask_me_about": ["data analysis", "data visualization", "SQL queries", "Python for data"],
+    "technologies": {
+        "data_analysis": {
+            "tools": ["SQL", "Excel", "Tableau", "Power BI"],
+            "languages": ["Python", "R"],
+            "libraries": ["Pandas", "NumPy", "Matplotlib"],
+        },
+        "databases": ["MySQL", "PostgreSQL", "SQLite"],
+        "visualization": ["Power BI", "Tableau"],
+    },
+    "current_focus": "Mastering data analysis techniques and building projects",
+    "fun_fact": "I find insights faster with a good dataset!"
+}
+```
 
-- 🌱 I’m currently learning **Google Data analytics Certificate**
-
-- 👨‍💻 All of my projects are available at [https://github.com/SShailesh-Dev/](https://github.com/SShailesh-Dev/)
-
-- 💬 Ask me about **Power BI, Excel, SQL, NoSQL, Python, NumPy, Matplotlib, SciKit Learn**
-
-- 📫 How to reach me **Sshailes.dev@gmail.com**
-
-- ⚡ Fun fact **I think I am funny boi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,17 +38,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sshailesh-dev&" alt="sshailesh-dev" /></p>
 
-<!--
-**SShailesh-Dev/SShailesh-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
