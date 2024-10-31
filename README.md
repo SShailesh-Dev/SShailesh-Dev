@@ -1,41 +1,78 @@
-![logo](https://github.com/SShailesh-Dev/SShailesh-Dev/blob/main/data-science.jpg)
-<h1 align="center">Hi 👋, I'm Shailesh Kumar</h1>
+# 👋 Hello, I'm Shailesh Kumar!
 
-<h2 align="center">Some more about me</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailesh-kumar) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=website&logoColor=white)](https://yourportfolio.com) ![Visitor Count](https://komarev.com/ghpvc/?username=shailesh-kumar&style=flat-square&color=blue)
 
-```python
-shailesh = {
-    "pronouns": ["He", "Him"],
-    "code": ["SQL", "Python", "R", "Tableau", "Power BI"],
-    "ask_me_about": ["data analysis", "data visualization", "SQL queries", "Python for data"],
-    "technologies": {
-        "data_analysis": {
-            "tools": ["SQL", "Excel", "Tableau", "Power BI"],
-            "languages": ["Python", "R"],
-            "libraries": ["Pandas", "NumPy", "Matplotlib"],
-        },
-        "databases": ["MySQL", "PostgreSQL", "SQLite"],
-        "visualization": ["Power BI", "Tableau"],
-    },
-    "current_focus": "Mastering data analysis techniques and building projects",
-    "fun_fact": "I find insights faster with a good dataset!"
-}
-```
+---
 
-<h3 align="left">Languages and Tools:</h3>
+🌍 **Location:** India  
+📱 **Contact:** +64391997  
+💼 **Freelance:** Available  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+---
 
+### 👨‍💻 About Me
 
+I’m a dedicated and detail-oriented Data Analyst with a passion for transforming raw data into actionable insights. My experience spans from creating **stunning dashboards** to **data-driven strategies**, making complex data easy to understand.
 
+- **Current Role:** Intern at *KultureHire*
+- **Certifications:** Google Data Analytics Professional Certificate, Stunning Dashboard Creation + ChatGPT
+- **Skills:** MS Excel, Google Sheets, SQL, Tableau, Power BI, Python (with libraries)
 
+---
+
+### 🛠️ Tools & Technologies
+
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white) ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat&logo=Google-Sheets&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=Tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+
+---
+
+### 📜 Certificates & Achievements
+
+- **Google Data Analytics Professional Certificate**  
+  ![Google Badge](https://your-certificate-badge-url.com)  
+  [View Certificate](https://coursera.org/verify/your-certificate-link)
+
+- **Stunning Dashboard Creation + ChatGPT**  
+  ![Dashboard Badge](https://your-badge-url.com)  
+  [View Certificate](https://coursera.org/verify/your-dashboard-certificate-link)
+
+> **Note**: If you have badges in image format, you can upload them to GitHub or a file hosting site to get their direct URLs. Replace the placeholder URLs above with the actual links.
+
+---
+
+### 📈 GitHub Stats
+
+![Shailesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shailesh-kumar&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-kumar&layout=compact&theme=radical)
+
+---
+
+### 🐍 Contribution Snake Game
+
+![Snake animation](https://github.com/shailesh-kumar/shailesh-kumar/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ✍️ Latest Blog Posts
+
+- [How to Become a Data Analyst](https://yourblog.com)
+- [Introduction to SQL](https://yourblog.com)
+- [5 Must-Have Data Analysis Skills](https://yourblog.com)
+
+---
+
+### 🎧 Currently Listening On Spotify
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=spotifyusername&cover_image=true)
+
+---
+
+### 📫 Get In Touch
+
+- **LinkedIn:** [linkedin.com/in/shailesh-kumar](https://www.linkedin.com/in/shailesh-kumar)
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
+- **Email:** shailesh@example.com  
+
+---
+
+Let’s connect and create data magic together!
