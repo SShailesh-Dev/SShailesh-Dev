@@ -5,7 +5,7 @@
 ---
 
 🌍 **Location:** India  
-📱 **Contact:** +64391997  
+📱 **Contact:** (+91) 6306591417  
 💼 **Freelance:** Available  
 
 ---
@@ -43,13 +43,13 @@ I’m a dedicated and detail-oriented Data Analyst with a passion for transformi
 ### 📈 GitHub Stats
 
 ![Shailesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shailesh-kumar&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-kumar&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-dev&layout=compact&theme=radical)
 
 ---
 
 ### 🐍 Contribution Snake Game
 
-![Snake animation](https://github.com/shailesh-kumar/shailesh-kumar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/shailesh-dev/shailesh-dev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -58,12 +58,6 @@ I’m a dedicated and detail-oriented Data Analyst with a passion for transformi
 - [How to Become a Data Analyst](https://yourblog.com)
 - [Introduction to SQL](https://yourblog.com)
 - [5 Must-Have Data Analysis Skills](https://yourblog.com)
-
----
-
-### 🎧 Currently Listening On Spotify
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=spotifyusername&cover_image=true)
 
 ---
 
