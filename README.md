@@ -42,7 +42,7 @@ I’m a dedicated and detail-oriented Data Analyst with a passion for transformi
 
 ### 📈 GitHub Stats
 
-![Shailesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shailesh-kumar&show_icons=true&theme=radical)  
+![Shailesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shailesh-dev&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shailesh-dev&layout=compact&theme=radical)
 
 ---
