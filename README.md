@@ -53,14 +53,12 @@ I’m a dedicated and detail-oriented Data Analyst with a passion for transformi
 ### 📜 Certificates & Achievements
 
 - **Google Data Analytics Professional Certificate**  
-  ![Google Badge]([https://your-certificate-badge-url.com](https://github.com/SShailesh-Dev/SShailesh-Dev/blob/main/google-data-analytics-professional-certificate.png))  
-  [View Certificate]([https://coursera.org/verify/your-certificate-link](https://www.coursera.org/account/accomplishments/professional-cert/YWACE1FX8O38?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof))
+  <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/SShailesh-Dev/SShailesh-Dev/refs/heads/main/google-data-analytics-professional-certificate.png" width="150" alt="Dashboard Badge" style="margin-right: 10px;"/>  
+  </div>  
+  
+  [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/YWACE1FX8O38?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
 
-- **Stunning Dashboard Creation + ChatGPT**  
-  ![Dashboard Badge](https://your-badge-url.com)  
-  [View Certificate](https://coursera.org/verify/your-dashboard-certificate-link)
-
-> **Note**: If you have badges in image format, you can upload them to GitHub or a file hosting site to get their direct URLs. Replace the placeholder URLs above with the actual links.
 
 ---
 
