@@ -85,6 +85,7 @@ I’m a dedicated and detail-oriented Data Analyst with a passion for transformi
 ### ✍️ Latest Blog Posts
 
 - [How Data Analysts Turn Data into Useful Information](https://www.linkedin.com/pulse/unlock-business-success-how-data-analysts-turn-useful-shailesh-kumar-w5kjc/?trackingId=KLG7ewNSTzeLBaYBtTfSBQ%3D%3D)
+- [Mastering SQL for Data Analysis: A Guide for Aspiring Data Analysts](https://www.linkedin.com/pulse/mastering-sql-data-analysis-guide-aspiring-analysts-shailesh-kumar-4gnjc)
 
 
 ---
